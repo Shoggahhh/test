@@ -6,4 +6,3 @@ class Product(Base):
     article: Mapped[int]
     name: Mapped[int]
     price: Mapped[int]
-    new_price: Mapped[int]
